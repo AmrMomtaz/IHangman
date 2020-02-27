@@ -6,7 +6,7 @@ Please Read this !!
 
 This is how my game works :
 
-1)If the player wins a boolean win will indicate this win
+1)If the player wins a boolean win will indicate this win and will be set to true
 
 2)If the user entered a wrong character (not alphabet) or he entered a repeated character the game would handle this and will do nothing and will wait for a next input
 
