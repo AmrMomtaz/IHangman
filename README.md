@@ -18,4 +18,4 @@ This is how my game works :
 
 6)I provided a UI in the project
 
-***In the testing part you should use the void Re_Initialize because the class already initializes once we created an object from it (using constractors and fileds assignment).. So to test the game you should set the Mystery_Word and you sould Re_Initialize the game using the method to get the correct results
+***In the testing part you should use the void Re_Initialize before you test because the class already initializes once we created an object from it (using constractors and fileds assignment).. So to test the game you should set the Mystery_Word and you sould Re_Initialize the game using the method to get the correct results
