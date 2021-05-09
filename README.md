@@ -1,3 +1,4 @@
+[CS122_assignment02_S2018.pdf](https://github.com/AmrMomtaz/Ihangman/files/6447107/CS122_assignment02_S2018.pdf)
 # Ihangman
 
 This is how my game works :
@@ -16,6 +17,4 @@ This is how my game works :
 
 ***In the testing part you should use the void Re_Initialize before you test because the class already initializes once we created an object from it (using constractors and fileds assignment).. So to test the game you should set the Mystery_Word and you sould Re_Initialize the game using the method to get the correct results
 
-![image](https://user-images.githubusercontent.com/61145262/117564301-c40cc700-b0ab-11eb-8e93-3bbc8bda2644.png)
-![image](https://user-images.githubusercontent.com/61145262/117564319-cd962f00-b0ab-11eb-98f9-fcbc4c2003ea.png)
-![image](https://user-images.githubusercontent.com/61145262/117564333-d555d380-b0ab-11eb-884a-47444aa1363b.png)
+[CS122_assignment02_S2018.pdf](https://github.com/AmrMomtaz/Ihangman/files/6447109/CS122_assignment02_S2018.pdf)
