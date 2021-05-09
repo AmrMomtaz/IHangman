@@ -1,4 +1,3 @@
-[CS122_assignment02_S2018.pdf](https://github.com/AmrMomtaz/Ihangman/files/6447107/CS122_assignment02_S2018.pdf)
 # Ihangman
 
 This is how my game works :
