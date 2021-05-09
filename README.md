@@ -1,8 +1,6 @@
 # Ihangman
 
-Data Structure I Assignment 2 // Name : Amr Ayman Ibrahim Momtaz Ibrahim Momtaz // ID : 18011178
-
-Please Read this !!
+Data Structure I Assignment 2
 
 This is how my game works :
 
@@ -19,3 +17,7 @@ This is how my game works :
 6)I provided a UI in the project
 
 ***In the testing part you should use the void Re_Initialize before you test because the class already initializes once we created an object from it (using constractors and fileds assignment).. So to test the game you should set the Mystery_Word and you sould Re_Initialize the game using the method to get the correct results
+
+![image](https://user-images.githubusercontent.com/61145262/117564208-3df08080-b0ab-11eb-97fe-d79832090cd4.png)
+![image](https://user-images.githubusercontent.com/61145262/117564213-46e15200-b0ab-11eb-9383-597ace8421a7.png)
+![image](https://user-images.githubusercontent.com/61145262/117564216-4cd73300-b0ab-11eb-8595-ce467d32578d.png)
