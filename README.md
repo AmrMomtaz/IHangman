@@ -19,3 +19,5 @@ This is how my game works :
 ![image](https://user-images.githubusercontent.com/61145262/117564379-10580700-b0ac-11eb-9ab7-75eba11469f5.png)
 ![image](https://user-images.githubusercontent.com/61145262/117564394-1d74f600-b0ac-11eb-88c3-5a20e7a72838.png)
 ![image](https://user-images.githubusercontent.com/61145262/117564403-2665c780-b0ac-11eb-98fa-b75b03162b12.png)
+
+[CS122_assignment02_S2018.pdf](https://github.com/AmrMomtaz/Ihangman/files/6447120/CS122_assignment02_S2018.pdf)
