@@ -1,7 +1,5 @@
 # Ihangman
 
-Data Structure I Assignment 2
-
 This is how my game works :
 
 1)The changed the pacakge name to IHangman because the previous name created so many files and made errors
@@ -18,6 +16,6 @@ This is how my game works :
 
 ***In the testing part you should use the void Re_Initialize before you test because the class already initializes once we created an object from it (using constractors and fileds assignment).. So to test the game you should set the Mystery_Word and you sould Re_Initialize the game using the method to get the correct results
 
-![image](https://user-images.githubusercontent.com/61145262/117564208-3df08080-b0ab-11eb-97fe-d79832090cd4.png)
-![image](https://user-images.githubusercontent.com/61145262/117564213-46e15200-b0ab-11eb-9383-597ace8421a7.png)
-![image](https://user-images.githubusercontent.com/61145262/117564216-4cd73300-b0ab-11eb-8595-ce467d32578d.png)
+![image](https://user-images.githubusercontent.com/61145262/117564301-c40cc700-b0ab-11eb-8e93-3bbc8bda2644.png)
+![image](https://user-images.githubusercontent.com/61145262/117564319-cd962f00-b0ab-11eb-98f9-fcbc4c2003ea.png)
+![image](https://user-images.githubusercontent.com/61145262/117564333-d555d380-b0ab-11eb-884a-47444aa1363b.png)
